@@ -184,8 +184,8 @@ Provides core option-calculation functions:
 
 Provides general utility functions:
 
-- Fixes Chinese font rendering in Matplotlib
-- Defines supported ETF option underlyings
+- Fixes Chinese font rendering in Matplotlib.
+- Defines supported ETF option underlyings.
 
 ### Dependencies
 
